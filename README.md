@@ -8,3 +8,9 @@ Personajes:
 - Katara
 - Zuko
 - Toph
+
+Editando el archivo desde la terminal de GitBash
+- Suki
+- Appa
+- Momo
+- Azula
